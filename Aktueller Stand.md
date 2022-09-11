@@ -11,6 +11,17 @@
 
 - Zusätzliche Funktionen (Encoder/OLED/Trackpad/-ball) als Module mit Pogopins und Magneten
 
+# Komponenten
+- Display:
+  - https://a.aliexpress.com/_Eyrberl
+  - https://youtu.be/R6TE4XLOUYw
+  - 1.69" 280\*240 IPS
+  - Farbe!
+  - ST7789
+- MCU:
+  - RP2040
+- USB-C
+
 # ToDos
 - [ ] Plates entwerfen (DerBonk)
 - [ ] Case Skizze entwerfen
