@@ -27,3 +27,5 @@ Die Features dieser Tastatur wurden durch vier Umfragen festgelegt. Die grundleg
 Wer Collaborator werden möchte kann sich bei @DerBonk melden. Die meisten Dateiformate, die wir brauchen, werden nicht gut mit git funktionieren. Bitte nutzt daher die Checkout-Datei und tragt euch ein und aus, damit es keine Dopplungen oder Konflikte zwischen den Dateien gibt.
 
 In "Aktueller Stand" findet ihr eine Zusammenfassung der derzeitigen Ideen und eine Liste was noch zu tun ist. Freiweillige können sich dort auch schon im Vorhinein für einzelne Aufgaben melden.
+
+Im Moment arbeiten wir nur im "main" branch, um die Dinge einfach zu halten.
