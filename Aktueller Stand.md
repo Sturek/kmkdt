@@ -2,7 +2,7 @@
 - Mounting und Case
   - Orientiert am Mont Cervin, modular
     - https://youtu.be/2jdddp0aHDw?t=885
-    - https://markerchun.com/mont-cervin
+    - https://markerchun.com/mont-cervin mehr Details: https://geekhack.org/index.php?topic=117831.0
     - Möglichkeiten:
       - Zwei Tastenmodule, verbunden mit der Tenting Base durch Pogopins im Boden
         - Potentiell MCU in der Tenting Base, mittiger USB
